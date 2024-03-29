@@ -1,3 +1,4 @@
+![](https://img.shields.io/pypi/l/riboflow)
 # RIBOFLOW - classifying riboswitches with >99% accuracy
 
 [pip package v1.1.1](https://pypi.org/project/riboflow/)
