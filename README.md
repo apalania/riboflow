@@ -125,7 +125,7 @@ Package Structure
 References and acknowledgements for pypi package development
 ----------
 
-  **Premkumar KAR, Bharanikumar R, Palaniappan A.* (2020) Classifying riboswitches with >99% accuracy. **Frontiers in Bioengg and Biotechnol** 8:808
+  * *Premkumar KAR, Bharanikumar R, Palaniappan A.* (2020) Classifying riboswitches with >99% accuracy. **Frontiers in Bioengg and Biotechnol** 8:808
   * http://fouryears.eu/2014/03/19/structure-of-a-python-project/
   * http://www.jeffknupp.com/blog/2013/08/16/open-sourcing-a-python-project-the-right-way/
   
